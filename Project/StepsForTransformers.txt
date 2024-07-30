@@ -1,0 +1,8 @@
+			Steps w.r.t Transformers:
+After installing transformer
+1. Call the pretrained model(Distilbert)
+2. Call the tokenizer(Distilbert)
+need to apply for dataset, remember for specific model 
+there are specific tokenizer.
+3. Convert encodings to dataset objects.
+in case of transformers it is, tensor(data objects).
